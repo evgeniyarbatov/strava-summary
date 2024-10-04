@@ -1,6 +1,8 @@
 # strava-summary
 
-Steps:
+Generate CSV summary from Strava export.
+
+## Steps
 
 1. Get data from Strava with [Bulk Export](https://support.strava.com/hc/en-us/articles/216918437-Exporting-your-Data-and-Bulk-Export#h_01GG58HC4F1BGQ9PQZZVANN6WF)
 2. Update `STRAVA_DIR` inside `Makefile`
